@@ -1,2 +1,2 @@
 # AI-model
-model training
+model training -Decision tree
